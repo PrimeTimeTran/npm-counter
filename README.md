@@ -8,6 +8,7 @@ Exports two components from consumption in your React Project
 
 - Badge
 - Button
+- Something else
 
 ## Steps
 
