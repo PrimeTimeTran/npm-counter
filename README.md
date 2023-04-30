@@ -4,11 +4,10 @@
 
 Exports two components from consumption in your React Project
 
-<!-- https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f -->
+Thanks for the [write up](https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f)!
 
 - Badge
 - Button
-- Something else
 
 ## Steps
 
@@ -55,7 +54,7 @@ npm install -save @babel/polyfill
 - Name package and version
 
 ```json
-"name": "npm-test",
+"name": "primetimetran-npm-counter",
 "version": "0.1.0",
 ```
 
@@ -72,3 +71,7 @@ npm install -save @babel/polyfill
 ```
 
 - `npm publish`
+
+Should not be available on NPM
+
+https://www.npmjs.com/package/primetimetran-npm-counter
