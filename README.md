@@ -46,7 +46,7 @@ npm install -save @babel/polyfill
 - Define build command
 
 ```json
-"build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files";
+"build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files"
 ```
 
 - `npm run build`
